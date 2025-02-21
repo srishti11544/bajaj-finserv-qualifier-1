@@ -1,0 +1,19 @@
+.responseContainer {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .result {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
